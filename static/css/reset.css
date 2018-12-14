@@ -1,0 +1,23 @@
+a.weui-tabbar__item {
+  text-decoration: none;
+  padding: 0
+}
+
+p.weui-tabbar__label {
+  margin: 0;
+}
+
+p.weui-tabbar__label span {
+  color: #8f6c39;
+
+}
+
+div.weui-tabbar__icon {
+  margin-top: 5px;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
